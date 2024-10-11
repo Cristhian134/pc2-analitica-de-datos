@@ -1,0 +1,11 @@
+yt_dlp
+pydub
+librosa
+praat-parselmouth
+pandas
+scipy
+numpy
+matplotlib
+seaborn
+
+!pip install yt_dlp pydub librosa praat-parselmouth pandas scipy numpy matplotlib seaborn
